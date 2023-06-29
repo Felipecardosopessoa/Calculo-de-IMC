@@ -1,15 +1,7 @@
 <h1>
 <p align = "center">
-<img src="https://github.com/Felipecardosopessoa/Calculo-de-IMC/assets/107128979/88dc31f1-f91f-444b-922f-05762b003c54">
+<img src="https://github.com/Felipecardosopessoa/Calculo-de-IMC/assets/107128979/47bb175a-b8cd-4da9-8c44-b3001059d894">
 </p>
 </h1>
-Status do projeto: finalizado.
+<img src="https://badgen.net/badge/Project/Finished/green">
 
-
-
-Para rodar este Projeto em sua máquina será necesario:
-
-
-```
-Baixar e usar um programa para descompactar.
-```
