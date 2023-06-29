@@ -1,4 +1,4 @@
-<h1 align= "center">Calculadora de IMC</h1>
+<h1 text-align="center">Calculadora de IMC</h1>
 
 Status do projeto: finalizado.
 
